@@ -1,6 +1,7 @@
 package lw03.prelab;
 
 import java.util.*;
+import java.util.Scanner;
 import java.io.*;
 
 public class Main {
