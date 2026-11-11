@@ -52,7 +52,7 @@ public class Main {
                 for (int i = 0; i < n; i++) {
                     if (A[i] == target && indeksKetemu == -1) {
                         indeksKetemu = i;
-                    }
+                    }       
                 }
 
                 if (indeksKetemu != -1) {
