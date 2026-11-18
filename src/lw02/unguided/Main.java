@@ -77,7 +77,7 @@ public class Main {
                     drinkAvailable = false;
                 }
             }
-
+            2
             if (foodAvailable && drinkAvailable) {
                 
                 if (!food.equals("-")) {
